@@ -16,15 +16,18 @@ img {
   max-width: 100%;
 }
 
-.background-image{
+.wrapper{
   background: url('../images/erie-pic.jpg');
+  background-size: cover;
+  height: 800px;
 }
 
 h1{
-  margin-top: 350px;
+  margin-top: 330px;
   // margin-left: 75px;
   text-align: center;
   font-family: 'Shadows Into Light', cursive;
+  color: red;
 }
 
 .like-button{
